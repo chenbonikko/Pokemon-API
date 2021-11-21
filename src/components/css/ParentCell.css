@@ -1,0 +1,11 @@
+.parent-cell {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.child-containter {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 204px;
+}
